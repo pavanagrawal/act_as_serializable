@@ -18,7 +18,16 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+in model, for any text column for which you want it to act as array column
+
+mention:
+
+act_as_serializable [:col1]
+
+for mutiple columns:
+
+act_as_serializable [:col1, :col2]
+
 
 ## Contributing
 

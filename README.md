@@ -1,6 +1,6 @@
 # ActAsSerializable
 
-TODO: Write a gem description
+This tool is useful for managing the array in a text column in any database (mysql, sqlite and etc). This tool also does sensible update upon object save/create. please see the usage below.
 
 ## Installation
 
